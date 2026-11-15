@@ -1,0 +1,3 @@
+# HitFilm Pro
+
+Utility scaffolding.
